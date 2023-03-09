@@ -12,10 +12,10 @@ To use:
 1. Copy this directory to the same directory as your LaTeX file.
 
    ```bash
-   $ cp ./letterfonts.tex ./macros.tex ./preamble.tex ./template.tex [some_dir]
+   $ cp ./letterfonts.tex ./macros.tex ./preamble.tex ./main.tex [some_dir]
    ```
 
-2. Edit the file "template.tex" to your liking.
+2. Edit the file "main.tex" to your liking.
 
 
 !!!! note
