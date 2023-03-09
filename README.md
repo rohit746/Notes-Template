@@ -29,9 +29,10 @@ A lot of the code is from the following sources:
 3. Install the [TeXiFy-Idea](https://github.com/Hannah-Sten/TeXiFy-IDEA) extension.
 
 Now you can compile the Main.tex file.
+You can also set compile options refer this video : -
+https://www.youtube.com/watch?v=bxXMZV9f9P8
 
 
 !!!! note
 
     I expect you to be able to install common LaTeX packages like amsmath, amsfonts, and amssymb.
-    Also, the dark mode in the picture below is from zathura's dark mode.
